@@ -1,0 +1,51 @@
+commit 51fa0aadbf9b96e8df70c4194326176d55df43a0
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Thu Oct 11 22:16:21 2018 -0400
+
+    Added parameter and return details in comments for every function.
+
+commit b8964d731d910f165396b706a09986171ce6e5a0
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Thu Oct 11 22:03:23 2018 -0400
+
+    Added relevant comments to the main() function.
+
+commit eebb8391678ce19d2fcdd8bdd42f2c63ad3a7119
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Thu Oct 11 21:54:11 2018 -0400
+
+    Implemented the scanner() function and provided relevant comments.
+    
+    In the main() function, we have a while loop which reads character by
+    character from the standard input and makes repeated calls to the
+    scanner function.
+
+commit 2785fb5c0760c144d04f6c90eb4de9f248602bc9
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Thu Oct 11 21:31:38 2018 -0400
+
+    Implemented characterClass() and free_memory() functions.
+    
+    Complete implementation of characterClass() and free_memory() functions
+    have been provided along with relevant comments.
+    Added a call to the free_memory() function at the end of the main()
+    function.
+
+commit fcef1c0dc86765397a9e9f4e0cc7770160097b82
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Thu Oct 11 21:15:38 2018 -0400
+
+    Updated code: Added global variables, made the transition matrix
+    
+    Added all necessary global variables in the program. Created the
+    transition matrix and added relevant comments regarding the function. In
+    the main() function, read the first three lines and extracted the rows,
+    start, and accept states neccesary for the matrix.
+
+commit c48499f06471472c69a01796723ba891a209e9a8
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Thu Oct 11 20:33:59 2018 -0400
+
+    Created stubbed functions in tokenize.c which need to be implemented.
+    
+    Created a file pointer in main() to open and read the file.
